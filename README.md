@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning R Programming.
 - 🔭 I’m currently working on a Blockchain course.
-- 🤔 I’m looking for help with finding automatic programming applications.
+- 🤔 I’m looking for help with finding automatic programming applications for JavaScript.
 
 <!--
 **cookiedancer/cookiedancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
