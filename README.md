@@ -9,7 +9,8 @@
 
 ##### Here are links to past teaching projects
 
-- [Teaching Projects] (https://github.com/cookiedancer/Thelma-Looms-Portfolio)
+- [Teaching Projects](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
+- [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
 
 
 <img src="https://github.com/cookiedancer/cookiedancer/blob/main/tags.svg" width="auto" height="auto">
