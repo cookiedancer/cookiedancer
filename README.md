@@ -17,7 +17,7 @@
 - [Dissertation](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
 
 - 🌱 I’m currently learning R Programming and Spanish.
-- 🔭 I’m currently working on a Blockchain/Python course, tutoring ESL student for GED and NEDP.
+- 🔭 I’m currently working on a Blockchain/Python course, tutoring ESL student for the NEDP.
 - 🤔 I’m looking for help with finding automatic programming applications for JavaScript.
 - 📫 How to reach me: tlooms@gmail.com
 
