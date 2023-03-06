@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cookiedancer/cookiedancer/blob/main/tags.svg" width="auto" height="auto">
+<img src="https://github.com/cookiedancer/cookiedancer/blob/main/tags.svg" width="auto" height="auto">
 
 ### Hello 👋
 ![](https://komarev.com/ghpvc/?username=cookiedancer&color=0ca4a5)
