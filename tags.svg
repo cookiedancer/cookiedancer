@@ -52,7 +52,7 @@
       }
 </style>
 
-<!--
+
       <div class="tags">
         <div class="tag">C</div>
         <div class="tag">C++</div>
@@ -71,7 +71,7 @@
       </div>
 
     </div>
-    -->
+   <!--
     
   <div class="left">1</div>
   <div class="left">2</div>
@@ -83,6 +83,7 @@
     aliquet tincidunt vel in massa. Phasellus feugiat est vel leo finibus
     congue.
   </p>
+  -->
 </foreignObject>
 </svg>
 
