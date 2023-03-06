@@ -1,7 +1,9 @@
 
-### Hello, I'm Thelma 👋
+### Hello, I'm Thelma. 👋
 
 <!--![](https://komarev.com/ghpvc/?username=cookiedancer&color=0ca4a5) -->
+
+## I'm a Teacher, Researcher and Curriculum Developer.
 
 #### I began my working life as a classically trained dancer.  As a result, I place a strong emphasis on learning by doing, as this experience is essential in reinforcing theories and concepts.  I have taught and developed curricula used on-ground and online in colleges and universities. My background includes teaching programming languages such as Java, C++, and Python, mobile computing, game design & development, and cybersecurity.  I enjoy  mentoring and tutoring students, and working to prepare students for certifications and onboarding.  
 
