@@ -26,13 +26,37 @@
           color: #0ca4a5;
           margin: 0.125em;
         }
-      </style>
 
+        .section {
+          box-sizing: border-box;
+          border: 1px solid blue;
+          width: 100%;
+          float: left;
+        }
+
+        .div {
+          margin: 5px;
+          width: 50px;
+          height: 150px;
+        }
+          
+        .left {
+          float: left;
+          background: pink;
+        }
+
+      .right {
+        float: right;
+        background: cyan;
+      }
+</style>
+
+<!--
       <div class="tags">
-        <div class="tag">Vue</div>
-        <div class="tag">React</div>
-        <div class="tag">Svelte</div>
-        <div class="tag">Angular</div>
+        <div class="tag">C</div>
+        <div class="tag">C++</div>
+        <div class="tag">C#</div>
+        <div class="tag">Bootstrap</div>
       </div>
       <div class="tags">
         <div class="tag">SASS</div>
@@ -46,5 +70,20 @@
       </div>
 
     </div>
+    -->
+    
+    <section>
+  <div class="left">1</div>
+  <div class="left">2</div>
+  <div class="right">3</div>
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique
+    sapien ac erat tincidunt, sit amet dignissim lectus vulputate. Donec id
+    iaculis velit. Aliquam vel malesuada erat. Praesent non magna ac massa
+    aliquet tincidunt vel in massa. Phasellus feugiat est vel leo finibus
+    congue.
+  </p>
+</section>
   </foreignObject>
 </svg>
+
