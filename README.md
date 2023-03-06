@@ -7,7 +7,6 @@
 
 #### I began my working life as a classically trained dancer.  As a result, I place a strong emphasis on learning by doing, as this experience is essential in reinforcing theories and concepts.  I have taught and developed curricula used on-ground and online in colleges and universities. My background includes teaching programming languages such as Java, JavaScript, C++, and Python, mobile computing, game design & development, and cybersecurity.  I enjoy  mentoring and tutoring students, and working to prepare students for certifications and onboarding.  
 
-##### Here are links to my projects
 
 - [Teaching Projects](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
 - [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
