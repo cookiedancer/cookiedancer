@@ -10,9 +10,12 @@
 
 - [Teaching Projects](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
 - [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
+- [Abstract of Studies in Virtual and Augmented Reality (2011-2016)](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Abstract%20of%20Studies%20in%20Virtual%20and%20Augmented%20Reality%20(2011-2016).pdf)
+-[Dissertation](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
 
 - 🌱 I’m currently learning R Programming
 - 🔭 I’m currently working on a Blockchain course
+- 🤔 I’m looking for help with finding automatic programming applications for Moodle
 
 <!--
 **cookiedancer/cookiedancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
