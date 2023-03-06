@@ -26,6 +26,16 @@
           color: #0ca4a5;
           margin: 0.125em;
         }
+
+        .left {
+          float: left;
+          background: pink;
+      }
+
+        .right {
+        float: right;
+        background: cyan;
+      }
 </style>
 
       <div class="tags">
@@ -44,8 +54,9 @@
         <div class="tag">Electron</div>
         <div class="tag">PWAs</div>
       </div>
-
-    </div>  
+      <div class="left">1</div>
+      <div class="left">2</div>
+      <div class="right">3</div>  
 </foreignObject>
 </svg>
 
