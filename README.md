@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/cookiedancer/cookiedancer/main/tags.svg" width="auto" height="auto">
+
+### Hello 👋
+![](https://komarev.com/ghpvc/?username=cookiedancer&color=0ca4a5)
 
 <!--
 **cookiedancer/cookiedancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/cookiedancer/cookiedancer/tags.svg" width="auto" height="auto">
+---
+
