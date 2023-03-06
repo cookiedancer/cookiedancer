@@ -72,7 +72,7 @@
     </div>
     -->
     
-    <section>
+  <section>
   <div class="left">1</div>
   <div class="left">2</div>
   <div class="right">3</div>
@@ -84,6 +84,6 @@
     congue.
   </p>
 </section>
-  </foreignObject>
+</foreignObject>
 </svg>
 
