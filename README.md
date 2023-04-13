@@ -14,7 +14,10 @@
 - [Teaching and Curriculum Development](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
 - [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
 - [Abstract of Studies in Virtual and Augmented Reality (2011-2016)](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Abstract%20of%20Studies%20in%20Virtual%20and%20Augmented%20Reality%20(2011-2016).pdf)
-- [Dissertation](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
+- [AI Will Transform Teaching and Learning. Let’s Get it Right.](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
+- [In the Coming Weeks, How to Respond to Generative AI](https://www.insidehighered.com/digital-learning/blogs/online-trending-now/coming-weeks-how-respond-generative-ai#)
+- [Dissertation: Video Synchronization](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
+
 
 - 🌱 I’m currently learning R Programming, Spanish, designing adaptive learning environments and archery.
 - 🔭 I’m currently working on a Blockchain/Python course, tutoring ESL student for the NEDP.
