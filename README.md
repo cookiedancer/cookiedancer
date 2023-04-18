@@ -19,8 +19,8 @@
 - [Dissertation: Video Synchronization](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
 
 
-- 🌱 I’m currently learning R Programming, Spanish, designing adaptive learning environments and archery.
-- 🔭 I’m currently working on a Blockchain/Python course, tutoring ESL student for the NEDP.
+- 🌱 I’m currently learning R Programming, Spanish, prompt engineering, designing adaptive learning environments and archery.
+- 🔭 I’m currently researching the use of generative AI in course development and tutoring an ESL student for the NEDP.
 - 🤔 I’m looking for help with finding automatic programming applications for JavaScript.
 - 📫 How to reach me: tlooms@gmail.com
 
