@@ -16,12 +16,12 @@
 - [Abstract of Studies in Virtual and Augmented Reality (2011-2016)](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype/blob/master/Abstract%20of%20Studies%20in%20Virtual%20and%20Augmented%20Reality%20(2011-2016).pdf)
 - [AI Will Transform Teaching and Learning. Let’s Get it Right.](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
 - [In the Coming Weeks, How to Respond to Generative AI](https://www.insidehighered.com/digital-learning/blogs/online-trending-now/coming-weeks-how-respond-generative-ai#)
-- [Colyssan Demo Video with Avatar](https://app.colossyan.com/share/4h1t0ad5)
+- [Colyssan AI Demo Video with Avatar](https://app.colossyan.com/share/4h1t0ad5)
 - [Dissertation: Video Synchronization](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
 
 
 - 🌱 I’m currently learning Spanish, prompt engineering, designing adaptive learning environments, and archery.
-- 🔭 I’m researching AI's use in course development.
+- 🔭 I’m researching generative AI's use in course development.
 - 📫 How to reach me: tlooms@gmail.com
 
 <!--
