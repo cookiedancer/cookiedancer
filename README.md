@@ -19,6 +19,7 @@
 - [Teaching and Curriculum Development](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
 - [Dissertation: Video Synchronization](https://github.com/cookiedancer/Thelma-Looms-Portfolio/blob/master/Thelma_Drayton_Looms_Dissertation.pdf)
 
+
 - 🌱 I’m currently learning Spanish, prompt engineering, designing adaptive learning environments, and archery.
 - 🔭 I’m researching generative AI's use in course development.
 - 📫 How to reach me: tlooms@gmail.com
