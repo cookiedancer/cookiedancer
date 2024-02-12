@@ -7,7 +7,7 @@
 
 <img src="https://github.com/cookiedancer/cookiedancer/blob/main/involve-me.jpg" width = 300 style="vertical-align:left;margin:0px 50px"/>
 
-#### I began my working life as a classically trained dancer.  As a result, I place a strong emphasis on 'learning by doing', as this experience is essential in reinforcing theories and concepts.  I have taught and developed curricula on the ground and online in private industries, colleges, and universities. My background includes technical writing, instructional design and development, programming languages, mobile computing, game design & development, VR/AR, and cybersecurity. 
+#### I began my working life as a classically trained dancer.  As a result, I strongly emphasize 'learning by doing,' as this experience is essential in reinforcing theories and concepts.  I have taught and developed curricula on the ground and online in private industries, colleges, and universities. My background includes technical writing, instructional design and development, programming languages, mobile computing, game design & development, VR/AR, and cybersecurity. 
 <p>
 
 
@@ -21,7 +21,7 @@
 
 
 - 🌱 I’m currently learning Spanish, prompt engineering, designing adaptive learning environments, and archery.
-- 🔭 I’m researching generative AI's use in course development.
+- 🔭 I’m researching AI's use in course development.
 - 📫 How to reach me: tlooms@gmail.com
 
 <!--
