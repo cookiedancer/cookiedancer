@@ -15,7 +15,6 @@
 - [AI Will Transform Teaching and Learning. Let’s Get it Right.](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
 - [Colossyan AI Demo Video with Avatar#1](https://drive.google.com/file/d/1PGlbXw6m1yRPnQRT9g7gqVrcaMNNqoer/view?=sharing)
 - [Colossyan AI Demo Video with Avatar#2](https://drive.google.com/file/d/1PIju55q58iYj1NVTxcjO78lZzM4sCi50/view?usp=sharing)
-- https://drive.google.com/file/d/1PIju55q58iYj1NVTxcjO78lZzM4sCi50/view?usp=sharing
 - [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
 - [In the Coming Weeks, How to Respond to Generative AI](https://www.insidehighered.com/digital-learning/blogs/online-trending-now/coming-weeks-how-respond-generative-ai#)
 - [Teaching and Curriculum Development](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
