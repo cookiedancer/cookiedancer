@@ -13,7 +13,7 @@
 
 - [Abstract of Studies in Virtual and Augmented Reality (2011-2016)](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype/blob/master/Abstract%20of%20Studies%20in%20Virtual%20and%20Augmented%20Reality%20(2011-2016).pdf)
 - [AI Will Transform Teaching and Learning. Let’s Get it Right.](https://hai.stanford.edu/news/ai-will-transform-teaching-and-learning-lets-get-it-right)
-- [Colyssan AI Demo Video with Avatar](https://app.colossyan.com/share/4h1t0ad5)
+- [Colossyan AI Demo Video with Avatar](https://app.colossyan.com/share/4h1t0ad5)
 - [Research with the HoloLens](https://github.com/cookiedancer/HoloLens-Meharry-Dental-Prototype)
 - [In the Coming Weeks, How to Respond to Generative AI](https://www.insidehighered.com/digital-learning/blogs/online-trending-now/coming-weeks-how-respond-generative-ai#)
 - [Teaching and Curriculum Development](https://github.com/cookiedancer/Thelma-Looms-Portfolio)
